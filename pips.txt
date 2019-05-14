@@ -1,0 +1,16 @@
+r.evbatyrov@EvbatyrovRoNb ~
+$ which python
+/usr/bin/python
+
+r.evbatyrov@EvbatyrovRoNb ~
+$ which python2
+/usr/bin/python2
+
+r.evbatyrov@EvbatyrovRoNb ~
+$ which pip
+/cygdrive/c/Python36/Scripts/pip
+
+r.evbatyrov@EvbatyrovRoNb ~
+$ which pip2
+/usr/bin/pip2
+
