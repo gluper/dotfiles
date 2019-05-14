@@ -1,0 +1,10 @@
+ThemeFile=flat-ui
+Transparency=low
+CursorType=block
+FontHeight=14
+Font=Consolas
+Language=
+FontWeight=400
+FontIsBold=no
+OpaqueWhenFocused=no
+Scrollbar=none
